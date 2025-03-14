@@ -6,6 +6,7 @@
 
 ![frontend toos - libman](docs/frontend-tools-libman.png)
 
+To manage frontend libraries in this project, we use [LibMan](https://learn.microsoft.com/en-us/aspnet/core/client-side/libman/?view=aspnetcore-8.0) (Library Manager). LibMan allows us to easily fetch and manage client-side libraries such as [Bootstrap](https://www.nuget.org/packages/bootstrap), [jQuery](https://www.nuget.org/packages/), and [jQuery Validation Unobtrusive](https://www.nuget.org/packages/microsoft.jquery.unobtrusive.validation/).
 
 
 
